@@ -38,7 +38,9 @@ The most time consuming challenge I faced was an issue with the services not com
 
 ## Service repositories
 [Order-service](https://github.com/ConnorD3/order-service)
+
 [Product-service](https://github.com/ConnorD3/product-service)
+
 [Store-front](https://github.com/ConnorD3/store-front)
 
 ---
